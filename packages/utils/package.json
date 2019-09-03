@@ -1,0 +1,7 @@
+{
+  "name": "@sn/utils",
+  "version": "0.0.0",
+  "author": "Andrey Osiyuk <osiyuk@protonmail.com>",
+  "license": "MIT",
+  "main": "src/index.tsx"
+}

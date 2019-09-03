@@ -1,0 +1,14 @@
+{
+  "name": "parcel-ts-react-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrey Osiyuk <osiyuk@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^3.16.4"
+  }
+}
